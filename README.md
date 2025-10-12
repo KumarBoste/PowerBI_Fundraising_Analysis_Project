@@ -1,1 +1,1 @@
-# FundRaise Analysis Project Using PowerBI
+# FundRaising Analysis Project Using PowerBI
