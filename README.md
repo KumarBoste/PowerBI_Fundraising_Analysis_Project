@@ -4,8 +4,6 @@
 ## Abstract
 This report presents a detailed fundraising performance analysis using Power BI. The purpose of this dashboard is to evaluate donor contributions, campaign efficiency, and the impact of social media and media coverage on fundraising outcomes. The visualization provides insights into currency performance, category-wise donations, and top-performing countries. This analysis helps identify areas for strategic improvements in fundraising campaigns.
 
-## Tools
-- PowerBI
 ## Table of Contents
 - Executive Summary
 - Problem Definition & Introduction
