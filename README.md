@@ -24,10 +24,10 @@ Key findings include:
 The analysis reveals that online and hybrid campaigns have a strong correlation with higher donation volumes and donor engagement. Currency fluctuations and campaign types also play an important role in determining overall fundraising success.
 
 ## Problem Definition & Introduction
-**Problem Definition**
+### Problem Definition
 Organizations often struggle to understand which campaign types, regions, or funding categories contribute most effectively to their fundraising goals. Without proper data visualization and analytics, it is difficult to measure campaign success and donor engagement accurately.
 
-**Introduction**
+### Introduction
 - This Power BI dashboard was created to:
 - Identify top-performing countries and campaigns.
 - Analyze donation trends by category and currency.
