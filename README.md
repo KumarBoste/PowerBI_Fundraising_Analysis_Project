@@ -77,3 +77,15 @@ Organizations often struggle to understand which campaign types, regions, or fun
 |Expand hybrid and digital fundraising campaigns.|Currency fluctuation risks affecting donation totals.|
 |Improve collaboration with global partners.|Donor fatigue or reduced public trust in certain regions.|
 |Leverage data to enhance targeted marketing.|Competition from other fundraising organizations.|
+
+## Conclusions & Recommendations
+### Conclusions
+The fundraising analysis highlights significant performance variation across countries and campaign types. Korea emerges as the top-performing country, while digital campaigns (especially online and hybrid) demonstrate higher engagement and donor participation. The data suggests a clear link between digital visibility and fundraising success.
+
+### Recommendations
+- Increase Digital Campaign Investment: Continue expanding online and hybrid campaigns for broader reach.
+- Enhance Media Coverage: Improve storytelling and press engagement to increase the media score beyond 50+.
+- Focus on Top-Performing Categories: Allocate more resources to startup and climate-related initiatives.
+- Diversify Regional Focus: Strengthen campaigns in underperforming regions to balance global contribution levels.
+- Monitor Currency Impact: Regularly analyze currency trends to optimize global donation collection timing.
+- Integrate Predictive Analytics: Use forecasting models to predict donor behavior and improve campaign targeting.
