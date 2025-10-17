@@ -64,3 +64,16 @@ Organizations often struggle to understand which campaign types, regions, or fun
 - Online Campaigns outperform offline ones in reach and engagement, driven by digital marketing efforts.
 - Currency Fluctuations impact donations, with certain currencies showing higher contributions during campaign surges.
 - Media and Social Reach are key contributors to campaign success — higher visibility directly correlates with donor count.
+
+## SWOT Analysis
+| Strengths | Weaknesses |
+|-----------|------------|
+|High donor count and strong social media reach.|Limited offline campaign engagement.|
+|Effective online fundraising campaigns.|Uneven regional distribution of donations.|
+|Positive response in innovation and climate categories.|Moderate media coverage score indicates limited publicity impact.|
+
+| Opportunities	| Threats |
+|---------------|---------|
+|Expand hybrid and digital fundraising campaigns.|Currency fluctuation risks affecting donation totals.|
+|Improve collaboration with global partners.|Donor fatigue or reduced public trust in certain regions.|
+|Leverage data to enhance targeted marketing.|Competition from other fundraising organizations.|
