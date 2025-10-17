@@ -50,3 +50,17 @@ Organizations often struggle to understand which campaign types, regions, or fun
 - Funding Type Insights:
   - External funding is higher in Korea and Congo.
   - Online and hybrid campaigns show greater reach and engagement compared to offline campaigns.
+
+  ## Data Visualization & Insights
+### Visual Components
+- Top 5 Country Performance Bar Chart: Highlights Korea as the leader in fundraising with substantial contribution differences.
+- Currency vs Campaign Type Waterfall Chart: Demonstrates how campaign types influence fundraising across different currencies.
+- Category-Wise Donut Chart: Reflects the distribution of donations across key categories, showing Startup and Climate as dominant sectors.
+- Geo Map Visualization: Shows global fundraising spread with significant activity across Asia and Africa.
+
+### Key Insights
+- Korea leads globally with the highest amount raised, showing strong internal and external funding support.
+- Startup and Climate initiatives attract the most donor attention, likely due to innovation and sustainability trends.
+- Online Campaigns outperform offline ones in reach and engagement, driven by digital marketing efforts.
+- Currency Fluctuations impact donations, with certain currencies showing higher contributions during campaign surges.
+- Media and Social Reach are key contributors to campaign success — higher visibility directly correlates with donor count.
