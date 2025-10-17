@@ -35,28 +35,28 @@ Organizations often struggle to understand which campaign types, regions, or fun
 - Support data-driven decision-making for future fundraising strategies.
 
 ## Statistical Analysis
-- Count of Donors: 1,984 total donors contribute to global fundraising initiatives.
-- Average Media Coverage: 49.95 indicates moderate publicity effectiveness.
-- Average Social Media Reach: 499.27K suggests strong digital influence.
-- Top 5 Country Performance:
+- **Count of Donors**: 1,984 total donors contribute to global fundraising initiatives.
+- **Average Media Coverage**: 49.95 indicates moderate publicity effectiveness.
+- **Average Social Media Reach**: 499.27K suggests strong digital influence.
+- **Top 5 Country Performance**:
   - Korea (≈22M)
   - Congo (≈19M)
   - Honduras, Andorra, and Cocos Islands (~15M each)
 
-- Category-wise Donations (Top 3):
+- **Category-wise Donations (Top 3)**:
   - Startup (17.4%)
   - Climate (17.4%)
   - Education (16.8%)
-- Funding Type Insights:
+- **Funding Type Insights**:
   - External funding is higher in Korea and Congo.
   - Online and hybrid campaigns show greater reach and engagement compared to offline campaigns.
 
   ## Data Visualization & Insights
 ### Visual Components
-- Top 5 Country Performance Bar Chart: Highlights Korea as the leader in fundraising with substantial contribution differences.
-- Currency vs Campaign Type Waterfall Chart: Demonstrates how campaign types influence fundraising across different currencies.
-- Category-Wise Donut Chart: Reflects the distribution of donations across key categories, showing Startup and Climate as dominant sectors.
-- Geo Map Visualization: Shows global fundraising spread with significant activity across Asia and Africa.
+- **Top 5 Country Performance Bar Chart**: Highlights Korea as the leader in fundraising with substantial contribution differences.
+- **Currency vs Campaign Type Waterfall Chart**: Demonstrates how campaign types influence fundraising across different currencies.
+- **Category-Wise Donut Chart**: Reflects the distribution of donations across key categories, showing Startup and Climate as dominant sectors.
+- **Geo Map Visualization**: Shows global fundraising spread with significant activity across Asia and Africa.
 
 ### Key Insights
 - Korea leads globally with the highest amount raised, showing strong internal and external funding support.
