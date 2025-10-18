@@ -12,6 +12,8 @@ This report presents a detailed fundraising performance analysis using Power BI.
 - SWOT Analysis
 - Conclusions & Recommendations
 
+## Dashboard 
+![Fundraising Dashboard](https://github.com/KumarBoste/Fundraising_Analysis_Project/blob/main/PowerBI_Dashboard/Dashboard%20SS.png)
 ## Executive Summary
 The Fundraising Analysis Project visualizes multiple performance indicators from global fundraising activities.
 Key findings include:
